@@ -1,0 +1,6 @@
+<lippage>
+2		<name>[FarmPokemon] Pikachu</Pikachu>
+3		
+4		<AvoidPokemon>
+5			<Pokemon Id="104" />
+6			<Pokemon Id="102" />
